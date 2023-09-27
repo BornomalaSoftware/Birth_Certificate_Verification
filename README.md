@@ -16,7 +16,7 @@
       <td><a href="https://github.com/BornomalaSoftware/Birth_Certificate_Verification/stargazers"><img src="https://img.shields.io/github/stars/BornomalaSoftware/Birth_Certificate_Verification?style=for-the-badge&label=%20&labelColor=black&color=white" style="height:25px;"/></a></td>
     </tr>
     <tr height="20">
-      <td align="center">v1.4.39+18</td>
+      <td align="center">v1.3.21+7</td>
       <td colspan="4" align="center" height="50"><a href="https://github.com/BornomalaSoftware/Birth_Certificate_Verification/releases/download/v1.3.21%2B7/BDRN.Verifier-1.3.21.apk"><img src="https://custom-icon-badges.demolab.com/badge/-Download-blue?style=for-the-badge&logo=download&logoColor=white"/></a></td>
     </tr>
   </table>
