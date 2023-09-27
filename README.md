@@ -26,7 +26,7 @@
   </table>
 </div>
 
-## Screenshot
+## Screenshots
 ![feature-graphic](https://github.com/BornomalaSoftware/Birth_Certificate_Verification/assets/62181222/0c120757-2c9b-4499-9285-0b62b6b31e39)
 
 <table align="center">
