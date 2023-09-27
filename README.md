@@ -3,7 +3,7 @@
 <div>
   <table width="100%">
     <tr>
-      <td rowspan="4"><img align="center" src="https://github.com/aratheunseen/Birth_Certificate_Verification/assets/62181222/72288ae5-0c14-48a5-b0e4-9701350d423d" style="height:200px;width:200px;text-align:center"/></td>
+      <td rowspan="4"><img align="center" src="https://github.com/BornomalaSoftware/Birth_Certificate_Verification/assets/62181222/a37fe562-e91d-450e-8477-03b1d2b384d2" style="height:200px;width:200px;text-align:center"/></td>
     </tr>
     <tr height="30">
       <th>App Size</th>
@@ -27,19 +27,19 @@
 </div>
 
 ## Screenshot
-![feature-graphic](https://github.com/aratheunseen/Birth_Certificate_Verification/assets/62181222/028d2196-a3f0-4dcd-8fa1-4e058c9fb859)
+![feature-graphic](https://github.com/BornomalaSoftware/Birth_Certificate_Verification/assets/62181222/0c120757-2c9b-4499-9285-0b62b6b31e39)
 
 <table align="center">
   <tr>
-    <td><img src="https://github.com/aratheunseen/Birth_Certificate_Verification/assets/62181222/ad224e0f-0e9d-497a-9e66-7e72b355f97a" width="350"></td>
-    <td><img src="https://github.com/aratheunseen/Birth_Certificate_Verification/assets/62181222/e60642b1-0749-4442-bcee-76f05af5644e" width="350"></td>
-    <td><img src="https://github.com/aratheunseen/Birth_Certificate_Verification/assets/62181222/2e2145d6-8281-42d2-a207-911e1d6d18dc" width="350"></td>
+    <td><img src="https://github.com/BornomalaSoftware/Birth_Certificate_Verification/assets/62181222/ae25d8b5-46f3-4576-aa0e-4c1372d335f8" width="350"></td>
+    <td><img src="https://github.com/BornomalaSoftware/Birth_Certificate_Verification/assets/62181222/01cd9607-550f-4511-b04e-5c34fb1739cf" width="350"></td>
+    <td><img src="https://github.com/BornomalaSoftware/Birth_Certificate_Verification/assets/62181222/c584e830-f1b8-4b79-bee8-d5877cd69478" width="350"></td>
   </tr>
 </table>
 
 ## About this app
 
-This is a Birth and Death Registration Number Verification App of Bangladesh.
+Birth and Death Registration Number Verification App of Bangladesh.
 
 Key Features:
 - Online Verification
