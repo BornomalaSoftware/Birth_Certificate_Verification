@@ -6,7 +6,7 @@
       <td rowspan="3"><img align="center" src="https://github.com/BornomalaSoftware/Birth_Certificate_Verification/assets/62181222/a37fe562-e91d-450e-8477-03b1d2b384d2" style="height:120px;width:120px;text-align:center"/></td>
     </tr>
     <tr height="30">
-      <th>App Size</th>
+      <th>Size</th>
       <th>Downloads</th>
       <th>Stars</th>
     </tr>
