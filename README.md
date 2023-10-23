@@ -38,7 +38,7 @@
 Birth and Death Registration Number Verification App of Bangladesh.
 
 Key Features:
-- Online Verification
+- Online Information Verification
 - User-Friendly Interface
 - Birth Certificate Verification
 - Death Certificate Verification
